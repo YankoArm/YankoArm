@@ -10,6 +10,7 @@
 - **Frameworks y Librerías:** Flask, Matplotlib, Tkinter  
 - **Bases de Datos:** MySQL, SQLite  
 - **Herramientas:** Git, GitHub, SoloLearn, Mimo  
+- **Curso Superior Python (Deusto Formación)
 
 ## 📌 Proyectos Destacados  
 🔹 **Sistema Solar Interactivo** → Web educativa sobre el espacio, usando Flask y la API de la NASA.  
@@ -18,4 +19,4 @@
 
 ## 📫 Contacto  
 Si quieres colaborar o conocer más sobre mis proyectos, puedes encontrarme en:  
-📧 [yankomdz@gmail.com] | 🌐 []  | 🎸 También soy guitarrista en mi tiempo libre.  
+📧 [yankopro.gramming@gmail.com] | 🌐 []
