@@ -2,12 +2,12 @@
 
 ## 🚀 Sobre mí  
 🔹 Desarrollador Python junior con interés en desarrollo backend, APIs y análisis de datos.  
-🔹 Experiencia en SQL, Flask, Tkinter.  
+🔹 Experiencia en SQL, Flask, Tkinter, Django, Pandas, Matplotlib, Scikit-Learn, Numpy.
 🔹 Actualmente estoy aprendiendo y trabajando en un proyecto de videojuego con un equipo.  
 
 ## 🛠️ Tecnologías y habilidades  
 - **Lenguajes:** Python, C, C++, Java, JavaScript, HTML, CSS, SQL  
-- **Frameworks y Librerías:** Flask, Matplotlib, Tkinter  
+- **Frameworks y Librerías:** Flask, Matplotlib, Tkinter, Pandas, Numpy... 
 - **Bases de Datos:** MySQL, SQLite  
 - **Herramientas:** Git, GitHub, SoloLearn, Mimo  
 - **Curso Superior Python (Deusto Formación)
