@@ -10,13 +10,14 @@
 - **Frameworks y Librerías:** Flask, Matplotlib, Tkinter, Pandas, Numpy... 
 - **Bases de Datos:** MySQL, SQLite  
 - **Herramientas:** Git, GitHub, Visual Code, ChatGpt. 
-- **Curso Superior Python (Deusto Formación)
+- **Curso Superior Python (Deusto Formación)**
 
 ## 📌 Proyectos Destacados  
-🔹 **Sistema Solar Interactivo** → Web educativa sobre el espacio, usando Flask y la API de la NASA.  
-🔹 **Lenguaje Intuitivo CNC** → Proyecto personal para simplificar la programación de máquinas CNC.  
-🔹 **Aplicación para extraer samplers** -> Proyecto colaborativo para crear beats. Este proyecto consta de dos partes. la primera es la extracción de fragmentos de audio y la segunda se entrenará una IA para crear los beats.
+🔹 **TPV** TPV para bar usando Python y Django. Se despliega a traves de  Pythonanywhere.com.
+🔹 **Lenguaje Intuitivo CNC** → Proyecto para simplificar la programación de máquinas CNC. Interfaz a través de Tkinter. (En desarrollo). 
+🔹 **Aplicación para extraer samplers** -> Proyecto para la extracción de samplers detectando picos de sonido. Interfaz con Tkinter con opciones de carga y guardado.
+🔹 **Dashboard Covid** -> Programa con menús y graficas para saber ingresados, hospitalizados, defunciones, por regiones de España de casos de Covid-19.
 
 ## 📫 Contacto  
 Si quieres colaborar o conocer más sobre mis proyectos, puedes encontrarme en:  
-📧 [yankopro.gramming@gmail.com] | 🌐 []
+📧 [yankopro.gramming@gmail.com] | 🌐 [yankomdz@gmail.com]
