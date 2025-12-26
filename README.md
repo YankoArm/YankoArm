@@ -12,10 +12,10 @@
 - **Curso Superior Python (Deusto Formación)**
 
 ## 📌 Proyectos Destacados  
-🔹 **TPV** TPV para bar usando Python y Django. Se despliega a traves de  Pythonanywhere.com.
+🔹 **TPV** → TPV para bar usando Python y Django. Se despliega a traves de  Pythonanywhere.com.
 🔹 **Lenguaje Intuitivo CNC** → Proyecto para simplificar la programación de máquinas CNC. Interfaz a través de Tkinter. (En desarrollo). 
-🔹 **Asistente personal** Asistente personal en Python con modo consola y GUI (Tkinter) para la gestión de tareas y notas. Proyecto orientado a aprendizaje y portfolio.
-🔹 **Dashboard Covid** -> Programa con menús y graficas para saber ingresados, hospitalizados, defunciones, por regiones de España de casos de Covid-19.
+🔹 **Asistente personal** → Asistente personal en Python con modo consola y GUI (Tkinter) para la gestión de tareas y notas. Proyecto orientado a aprendizaje y portfolio.
+🔹 **Dashboard Covid** → Programa con menús y graficas para saber ingresados, hospitalizados, defunciones, por regiones de España de casos de Covid-19.
 
 ## 📫 Contacto  
 Si quieres colaborar o conocer más sobre mis proyectos, puedes encontrarme en:  
