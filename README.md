@@ -1,22 +1,23 @@
-# ¡Hola, soy [Yanko A.]! 👋
+# Hola, soy Yanko 👋
 
-## 🚀 Sobre mí  
-- Desarrollador Python junior con interés en desarrollo backend, APIs y análisis de datos.
-- Experiencia en SQL, Flask, Tkinter, Django, Pandas, Matplotlib, Scikit-Learn, Numpy.
+Soy desarrollador en formación con interés en Python, interfaces gráficas y automatización. Estoy aprendiendo y desarrollando proyectos prácticos para consolidar mis habilidades.
 
-## 🛠️ Tecnologías y habilidades  
-- **Lenguajes:** Python. 
-- **Frameworks y Librerías:** Flask, Matplotlib, Tkinter, Pandas, Numpy, Scikit-Learn,Django.
-- **Bases de Datos:** MySQL, SQLite. 
-- **Herramientas:** Git, GitHub, Visual Code, ChatGpt (Uso asistido para aprendizaje), Documentación de Django, Python y demás frameworks y librerías. 
-- **Curso Superior Python (Deusto Formación)**
+## 🧠 Proyectos Destacados
 
-## 📌 Proyectos Destacados  
-- **TPV** → TPV para bar usando Python y Django. Se despliega a traves de  Pythonanywhere.com.
-- **Lenguaje Intuitivo CNC** → Proyecto para simplificar la programación de máquinas CNC. Interfaz a través de Tkinter. (En desarrollo). 
-- **Asistente personal** → Asistente personal en Python con modo consola y GUI (Tkinter) para la gestión de tareas y notas. Proyecto orientado a aprendizaje y portfolio.
-- **Dashboard Covid** → Programa con menús y graficas para saber ingresados, hospitalizados, defunciones, por regiones de España de casos de Covid-19.
+Estos son algunos de los proyectos más relevantes que he publicado:
 
-## 📫 Contacto  
-Si quieres colaborar o conocer más sobre mis proyectos, puedes encontrarme en:  
-📧 yankopro.gramming@gmail.com
+- **Asistente Personal en Python** – Gestión de tareas y notas con consola y GUI en Tkinter.  
+- **Dashboard Científico COVID-19** – Visualización y análisis de datos con pandas y matplotlib.  
+- **TPV Bar (en desarrollo)** – Sistema punto de venta usando Django.  
+
+## 🛠 Tecnologías y Herramientas
+
+- Lenguajes: Python  
+- Frameworks y bibliotecas: Tkinter, Django, pandas, matplotlib  
+- Control de versiones: Git y GitHub
+
+## 📫 Cómo contactarme
+
+- Correo: **yankopro.gramming@gmail.com**
+
+Gracias por pasar por mi perfil. ¡Bienvenido!
