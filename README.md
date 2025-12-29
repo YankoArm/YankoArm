@@ -1,23 +1,44 @@
-# Hola, soy Yanko 👋
+## 👋 Hola, soy Yanko
 
-Soy desarrollador en formación con interés en Python, interfaces gráficas y automatización. Estoy aprendiendo y desarrollando proyectos prácticos para consolidar mis habilidades.
+Desarrollador junior en formación con foco en **Python** y **backend**, interesado en crear aplicaciones prácticas y bien estructuradas.
 
-## 🧠 Proyectos Destacados
+Actualmente estoy en búsqueda de **prácticas / posición junior**, mientras continúo formándome y construyendo proyectos reales.
 
-Estos son algunos de los proyectos más relevantes que he publicado:
+---
 
-- **Asistente Personal en Python** – Gestión de tareas y notas con consola y GUI en Tkinter.  
-- **Dashboard Científico COVID-19** – Visualización y análisis de datos con pandas y matplotlib.  
-- **TPV Bar (en desarrollo)** – Sistema punto de venta usando Django.  
+## 🚀 Proyectos destacados
 
-## 🛠 Tecnologías y Herramientas
+Estos son mis principales proyectos personales, desarrollados como parte de mi aprendizaje:
 
-- Lenguajes: Python  
-- Frameworks y bibliotecas: Tkinter, Django, pandas, matplotlib  
-- Control de versiones: Git y GitHub
+- **[Asistente Personal en Python](https://github.com/YankoArm/asistente-personal-python)**  
+  Aplicación para la gestión de tareas y notas, con modo consola e interfaz gráfica (Tkinter).  
+  Enfoque en arquitectura modular, persistencia con JSON y lógica de aplicación.
 
-## 📫 Cómo contactarme
+- **[Dashboard Científico COVID-19](https://github.com/YankoArm/Dashboard_Covid-19)**  
+  Proyecto de análisis y visualización de datos utilizando pandas, numpy y matplotlib.  
+  Incluye carga de datos desde JSON y representación gráfica de tendencias.
 
-- Correo: **yankopro.gramming@gmail.com**
+- **[TPV Bar (Django)](https://github.com/YankoArm/tpv-bar-django)**  
+  Sistema de punto de venta desarrollado con Django para bares y pequeños negocios.  
+  Gestión de productos y ventas en un entorno web local.
 
-Gracias por pasar por mi perfil. ¡Bienvenido!
+---
+
+## 🛠 Tecnologías y herramientas
+
+- **Lenguaje:** Python  
+- **Frameworks / librerías:** Django, Tkinter, pandas, numpy, matplotlib  
+- **Otros:** Git, GitHub, SQLite  
+- **Entornos:** Desarrollo en Windows y macOS
+
+---
+
+## 🎯 Objetivo profesional
+
+Seguir creciendo como desarrollador Python, afianzando bases sólidas en backend y buenas prácticas, y adquirir experiencia real en un entorno profesional.
+
+---
+
+## 📫 Contacto
+
+- 📧 Email: **yankopro.gramming@gmail.com**
