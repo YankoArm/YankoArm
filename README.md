@@ -15,7 +15,7 @@ Estos son mis principales proyectos personales, desarrollados como parte de mi a
   Enfoque en arquitectura modular, persistencia con JSON y lógica de aplicación.
 
 - **[Dashboard Científico COVID-19](https://github.com/YankoArm/Dashboard_Covid-19)**  
-  Proyecto de análisis y visualización de datos utilizando pandas, numpy y matplotlib.  
+  Proyecto de análisis y visualización de datos utilizando DictReader leyendo CSV y matplotlib.  
   Incluye carga de datos desde JSON y representación gráfica de tendencias.
 
 - **[TPV Bar (Django)](https://github.com/YankoArm/tpv-bar-django)**  
@@ -29,7 +29,7 @@ Estos son mis principales proyectos personales, desarrollados como parte de mi a
 - **Lenguaje:** Python  
 - **Frameworks / librerías:** Django, Tkinter, pandas, numpy, matplotlib  
 - **Otros:** Git, GitHub, SQLite  
-- **Entornos:** Desarrollo en Windows y macOS
+- **Entornos:** Desarrollo en Windows, Linux y macOS
 
 ---
 
